@@ -2,3 +2,5 @@
 
 
 echo "hello world"
+
+man somayyeh hastam
